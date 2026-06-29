@@ -21,3 +21,5 @@ The notebook builds a three-layer MLP (40 → 12 → 1) and trains with Adam + M
 
 <!-- community contributor -->
 
+
+<!-- drmikecrypto -->
