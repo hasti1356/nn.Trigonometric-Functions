@@ -10,6 +10,8 @@ Open `trigonometric functions.ipynb` in Jupyter.
 
 ## Setup
 
+Python 3.10+ recommended.
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
